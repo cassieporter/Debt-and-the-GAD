@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "City": "Sydney", "LAT": -33.8688, "LNG": 151.2093, "Ratio": 12.2 }, "geometry": { "type": "Point", "coordinates": [ 151.2093, -33.8688 ] } },
+{ "type": "Feature", "properties": { "City": "Melbourne", "LAT": -37.8136, "LNG": 144.9631, "Ratio": 9.5 }, "geometry": { "type": "Point", "coordinates": [ 144.9631, -37.8136 ] } },
+{ "type": "Feature", "properties": { "City": "Brisbane", "LAT": -27.4698, "LNG": 153.0251, "Ratio": 6.2 }, "geometry": { "type": "Point", "coordinates": [ 153.0251, -27.4698 ] } },
+{ "type": "Feature", "properties": { "City": "Adelaide", "LAT": -34.9285, "LNG": 138.6007, "Ratio": 6.6 }, "geometry": { "type": "Point", "coordinates": [ 138.6007, -34.9285 ] } },
+{ "type": "Feature", "properties": { "City": "Perth", "LAT": -31.9505, "LNG": 115.8605, "Ratio": 6.1 }, "geometry": { "type": "Point", "coordinates": [ 115.8605, -31.9505 ] } },
+{ "type": "Feature", "properties": { "City": "Hobart", "LAT": -42.8821, "LNG": 147.3272, "Ratio": 5.5 }, "geometry": { "type": "Point", "coordinates": [ 147.3272, -42.8821 ] } },
+{ "type": "Feature", "properties": { "City": "Darwin", "LAT": -12.4634, "LNG": 130.8456, "Ratio": 4.8 }, "geometry": { "type": "Point", "coordinates": [ 130.8456, -12.4634 ] } },
+{ "type": "Feature", "properties": { "City": "Canberra", "LAT": -35.2809, "LNG": 149.13, "Ratio": 6.2 }, "geometry": { "type": "Point", "coordinates": [ 149.13, -35.2809 ] } },
+{ "type": "Feature", "properties": { "City": "Alice Springs", "LAT": -26.698, "LNG": 133.8807, "Ratio": 4.3 }, "geometry": { "type": "Point", "coordinates": [ 133.8807, -26.698 ] } },
+{ "type": "Feature", "properties": { "City": "Ballarat", "LAT": -37.5622, "LNG": 143.8503, "Ratio": 5.5 }, "geometry": { "type": "Point", "coordinates": [ 143.8503, -37.5622 ] } },
+{ "type": "Feature", "properties": { "City": "Toowoomba", "LAT": -27.5598, "LNG": 151.9507, "Ratio": 5.5 }, "geometry": { "type": "Point", "coordinates": [ 151.9507, -27.5598 ] } },
+{ "type": "Feature", "properties": { "City": "Bendigo", "LAT": -36.757, "LNG": 144.2794, "Ratio": 5.7 }, "geometry": { "type": "Point", "coordinates": [ 144.2794, -36.757 ] } },
+{ "type": "Feature", "properties": { "City": "Cairns", "LAT": -16.9186, "LNG": 145.7781, "Ratio": 5.9 }, "geometry": { "type": "Point", "coordinates": [ 145.7781, -16.9186 ] } },
+{ "type": "Feature", "properties": { "City": "Newcastle", "LAT": -32.9565, "LNG": 151.6772, "Ratio": 6.6 }, "geometry": { "type": "Point", "coordinates": [ 151.6772, -32.9565 ] } },
+{ "type": "Feature", "properties": { "City": "Coffs Harbour", "LAT": -30.2986, "LNG": 153.1094, "Ratio": 7.9 }, "geometry": { "type": "Point", "coordinates": [ 153.1094, -30.2986 ] } },
+{ "type": "Feature", "properties": { "City": "Geelong", "LAT": -38.1499, "LNG": 144.3617, "Ratio": 7.2 }, "geometry": { "type": "Point", "coordinates": [ 144.3617, -38.1499 ] } },
+{ "type": "Feature", "properties": { "City": "Wollongong", "LAT": -34.4278, "LNG": 150.8931, "Ratio": 8.9 }, "geometry": { "type": "Point", "coordinates": [ 150.8931, -34.4278 ] } },
+{ "type": "Feature", "properties": { "City": "Gold Coast", "LAT": -28.0167, "LNG": 153.4, "Ratio": 9.0 }, "geometry": { "type": "Point", "coordinates": [ 153.4, -28.0167 ] } },
+{ "type": "Feature", "properties": { "City": "Sunshine Coast", "LAT": -26.65, "LNG": 153.0667, "Ratio": 9.0 }, "geometry": { "type": "Point", "coordinates": [ 153.0667, -26.65 ] } },
+{ "type": "Feature", "properties": { "City": "Townsville", "LAT": -19.259, "LNG": 146.8169, "Ratio": 4.1 }, "geometry": { "type": "Point", "coordinates": [ 146.8169, -19.259 ] } }
+]
+}
